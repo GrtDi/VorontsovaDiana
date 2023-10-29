@@ -1,0 +1,83 @@
+.mainChat {
+    position: relative;
+    width: 300px;
+    height: 500px;
+    background-color: rgb(238, 232, 224);
+    border-radius: 7%;
+    padding-left: 5px;
+}
+
+.allChat {
+    margin-left: 30%;
+}
+
+body {
+    background-color: rgb(20, 185, 235)
+}
+
+.h1 {
+    border: 2px dotted rgb(241, 241, 219);
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    background-color: #c6ebde;
+}
+
+.form {
+    margin-Left: 2.5%;
+    margin-top: 15px;
+}
+
+.button {
+    background-color: rgb(30, 30, 143);
+    color: white;
+}
+
+.li {
+    background-color: #108aee;
+    font-size: 24px;
+    display: inline;
+    margin-right: 5px;
+    border: 3px solid black;
+    padding: 3px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    color: black;
+    width: 90%;
+}
+
+
+.message {
+    border: 2px solid blue;
+    margin-right: 5%;
+    margin-Left: 5%;
+}
+
+.divh1 {
+    display: flex;
+    justify-content: center;
+}
+
+.divp{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    border: 3px solid darkblue;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.players {
+    display: flex;
+    justify-content: center;
+    font-size: 17px;
+    background-color: rgb(68, 135, 223);
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 50%
+}
